@@ -21,11 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-  - [Solution URL](https://manolyatam.github.io/QR-Code-Component/)
-  - [Live Site URL](https://your-live-site-url.com)
+  - [Solution URL](https://github.com/ManolyaTam/QR-Code-Component)
+  - [Live Site URL](https://manolyatam.github.io/QR-Code-Component/)
 
 
 ### Author
   - Email - [Manolya Tamimi](tamimimanolya@gmail.com)
   - GitHub - [ManolyaTam](https://github.com/ManolyaTam/)
-  - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ManolyaTam)
+  - Frontend Mentor - [@yManolyaTam](https://www.frontendmentor.io/profile/ManolyaTam)
