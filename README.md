@@ -28,4 +28,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Author
   - Email - [Manolya Tamimi](tamimimanolya@gmail.com)
   - GitHub - [ManolyaTam](https://github.com/ManolyaTam/)
-  - Frontend Mentor - [@yManolyaTam](https://www.frontendmentor.io/profile/ManolyaTam)
+  - Frontend Mentor - [@ManolyaTam](https://www.frontendmentor.io/profile/ManolyaTam)
