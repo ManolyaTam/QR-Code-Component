@@ -9,23 +9,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Links](#links)
   - [Author](#author)
 
-### Overview
+## Overview
   Hello there!
   thanks for visiting my profile!
   If you have any thoughts, questions, or suggestions, I would love to hear from you!
 
-### Screenshots
+## Screenshots
 
-![Desktop design view (result)](./result/desktop_result.png.jpg)
+![Desktop design view (result)](./result/desktop_result.png)
 ![Mobile design view (result)](./result/mobile_result.png)
 
-### Links
+## Links
 
   - [Solution URL](https://manolyatam.github.io/QR-Code-Component/)
   - [Live Site URL](https://your-live-site-url.com)
 
 
-## Author
+### Author
   - Email - [Manolya Tamimi](tamimimanolya@gmail.com)
   - GitHub - [ManolyaTam](https://github.com/ManolyaTam/)
   - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ManolyaTam)
